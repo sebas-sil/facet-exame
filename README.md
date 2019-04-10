@@ -7,7 +7,12 @@ exemplo de avaliacao
 
    ```
    
-   troque esta linha pela saida do comando
+  Cloning into 'facet-exame'...
+remote: Enumerating objects: 31, done.
+remote: Counting objects: 100% (31/31), done.
+remote: Compressing objects: 100% (15/15), done.
+remote: Total 31 (delta 5), reused 20 (delta 2), pack-reused 0
+Unpacking objects: 100% (31/31), done.
    
    ```
 
@@ -15,7 +20,7 @@ exemplo de avaliacao
 
    ```
    
-   troque esta linha pela saida do comando
+   Switched to a new branch 'S162014'
    
    ```
    
