@@ -51,7 +51,19 @@ Unpacking objects: 100% (31/31), done.
 
     ```
    
-   troque esta linha pela saida do comando
+   Enumerating objects: 34, done.
+Counting objects: 100% (34/34), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (20/20), done.
+Writing objects: 100% (34/34), 4.71 KiB | 253.00 KiB/s, done.
+Total 34 (delta 7), reused 0 (delta 0)
+remote: Resolving deltas: 100% (7/7), done.
+remote:
+remote: Create a pull request for 'S162014' on GitHub by visiting:
+remote:      https://github.com/sebas-sil/facet-exame/pull/new/S162014
+remote:
+To https://github.com/sebas-sil/facet-exame.git
+ * [new branch]      S162014 -> S162014
    
    ```
 6. [JDBC] ...
