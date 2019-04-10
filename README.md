@@ -1,11 +1,11 @@
-# facet-exame
+﻿# facet-exame
 exemplo de avaliacao
 
 ## implemente os códigos solicitados abaixo
 
 1. [Git] Faça o download deste repositório para trabalho local
 
-   ```
+   git clone https://github.com/sebas-sil/facet-exame
    
    troque esta linha pela saida do comando
    
