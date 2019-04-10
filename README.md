@@ -5,11 +5,13 @@ exemplo de avaliacao
 
 1. [Git] Faça o download deste repositório para trabalho local
 
-   ```
-   
-   troque esta linha pela saida do comando
-   
-   ```
+   Cloning into 'facet-exame'...
+   remote: Enumerating objects: 31, done.
+   remote: Counting objects: 100% (31/31), done.
+   remote: Compressing objects: 100% (15/15), done.
+   remote: Total 31 (delta 5), reused 20 (delta 2), pack-reused 0
+   Unpacking objects: 100% (31/31), done.
+
 
 2. [Git] Crie um novo branch localmente com o nome sendo a sua matricula
 
