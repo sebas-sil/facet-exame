@@ -15,11 +15,8 @@ exemplo de avaliacao
 
 2. [Git] Crie um novo branch localmente com o nome sendo a sua matricula
 
-   ```
-   
-   troque esta linha pela saida do comando
-   
-   ```
+   Switched to a new branch 'S171037'
+
    
 3. [OO] Criação da classe Pessoa (com todos os atributos de instancia e métodos comentados com seus objetivos):
    - No projeto recem criado, no pacote chamada br.facet.exame1, crie uma classe chamada Pessoa com:
@@ -32,6 +29,8 @@ exemplo de avaliacao
    troque esta linha pela saida do comando
    
    ```
+
+
 4. [OO] Criação da classe Aluno (com todos os atributos de instancia e métodos comentados com seus objetivos):
    - No projeto recem criado, no pacote chamada br.facet.exame1, crie uma classe chamada Aluno que estende Pessoa com:
      - Atributos: matricula e curso
