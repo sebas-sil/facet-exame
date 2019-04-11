@@ -24,9 +24,12 @@ exemplo de avaliacao
      - Métodos: 'falar a idade' que deve retornar a idade que a pessoa tem. 
    - Ao finalizar, de um commit das informaçãos adicinadas ou modificadas e cole abaixo a saida do comando.
    
- [S171037 d6ef665] exame
- 2 files changed, 4 insertions(+), 7 deletions(-)
-
+   6 files changed, 52 insertions(+), 5 deletions(-)
+   create mode 100644 src/br/facet/exame1/.classpath
+   create mode 100644 src/br/facet/exame1/.gitignore
+   create mode 100644 src/br/facet/exame1/.project
+   create mode 100644 src/br/facet/exame1/Pessoa.java
+   create mode 100644 src/br/facet/exame1/TestPessoa.java
 
 
 4. [OO] Criação da classe Aluno (com todos os atributos de instancia e métodos comentados com seus objetivos):
@@ -35,11 +38,7 @@ exemplo de avaliacao
      - Métodos: 'presença' que deve imprimir na tela a frase 'Aqui', 'Presente' ou similar, sem retorno.
    - Ao finalizar, de um commit das informaçãos adicinadas ou modificadas e cole abaixo a saida do comando.
    
-    ```
-   
-   troque esta linha pela saida do comando
-   
-   ```
+
 
 5. [Git] Faça o upload do novo branch para o servidor para que todos possam acessar
 
