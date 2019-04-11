@@ -19,7 +19,7 @@ Unpacking objects: 100% (31/31), done.
 
    ```
    
-   troque esta linha pela saida do comando
+  Switched to a new branch 'S171072'
    
    ```
    
@@ -31,7 +31,18 @@ Unpacking objects: 100% (31/31), done.
    
    ```
    
-   troque esta linha pela saida do comando
+  Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch S171072
+# Changes to be committed:
+#       new file:   cd
+#       new file:   git
+#       new file:   src/br/facet/exame1/.classpath
+#       new file:   src/br/facet/exame1/.project
+#       modified:   src/br/facet/exame1/Escola.java
+#       new file:   src/br/facet/exame1/Pessoa.java
+#       new file:   src/br/facet/exame1/PessoaTeste.java
    
    ```
 4. [OO] Criação da classe Aluno (com todos os atributos de instancia e métodos comentados com seus objetivos):

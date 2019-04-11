@@ -5,6 +5,9 @@ public class PessoaTeste {
 		Pessoa p = new Pessoa();
 		p.falarIdade();
 		
+		Aluno a =new Aluno();
+		a.presenca();
+		
 	}
 	
 	
