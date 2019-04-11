@@ -5,9 +5,9 @@ exemplo de avaliacao
 
 1. [Git] Faça o download deste repositório para trabalho local
 
+   ```
+
    git clone https://github.com/sebas-sil/facet-exame
-   
-   troque esta linha pela saida do comando
    
    ```
 
@@ -15,7 +15,10 @@ exemplo de avaliacao
 
    ```
    
-   troque esta linha pela saida do comando
+   git add -A
+   git commit -m "S172309"
+   git checkout -b S172309
+   
    
    ```
    
@@ -46,7 +49,8 @@ exemplo de avaliacao
 
     ```
    
-   troque esta linha pela saida do comando
+   git push origin
+   
    
    ```
 6. [JDBC] ...
